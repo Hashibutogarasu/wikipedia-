@@ -3,4 +3,6 @@
 コマンドラインからwikipediaを調べられるやつ。<br>
 需要はほぼないと思う（）
 
-<a href="https://pypi.org/project/wikipedia/">必要なモジュール</a>
+<p>必要なモジュール</p>
+
+<a href="https://pypi.org/project/wikipedia/">wikipedia</a>
